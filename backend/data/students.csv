@@ -1,0 +1,133 @@
+name,cgpa,tenth_percentage,twelfth_percentage,department,aptitude_score,communication_score,technical_score,coding_score,projects_completed,internships,certifications,attendance,backlogs,placed
+Rahul Sharma,8.5,89.5,85.2,Computer Science,78,72,85,82,5,2,3,92.0,0,1
+Priya Patel,9.1,94.0,91.5,Computer Science,88,85,90,88,7,3,5,96.0,0,1
+Amit Kumar,6.2,72.0,68.5,Mechanical,55,48,42,35,2,0,1,78.0,2,0
+Sneha Reddy,7.8,82.5,79.0,Electronics,70,65,72,60,4,1,2,88.0,0,1
+Vikram Singh,8.9,91.0,88.0,Computer Science,82,78,88,90,6,2,4,94.0,0,1
+Ananya Iyer,7.2,78.0,75.5,Information Technology,62,58,65,55,3,1,2,85.0,1,0
+Karthik Nair,8.0,85.0,82.0,Computer Science,75,70,78,75,5,2,3,90.0,0,1
+Divya Menon,6.8,76.5,72.0,Civil,50,55,45,30,2,0,1,82.0,1,0
+Arjun Das,9.3,96.0,93.5,Computer Science,92,88,95,92,8,3,6,98.0,0,1
+Meera Joshi,7.5,80.0,77.5,Electronics,68,62,70,58,3,1,2,86.0,0,1
+Rohit Verma,5.8,65.0,62.0,Mechanical,42,38,35,28,1,0,0,72.0,3,0
+Lakshmi Rao,8.2,87.0,84.0,Information Technology,76,74,80,78,5,2,3,91.0,0,1
+Suresh Menon,7.0,75.0,71.0,Electrical,58,52,55,48,3,0,1,83.0,1,0
+Pooja Agarwal,8.7,90.0,87.5,Computer Science,80,82,86,84,6,2,4,93.0,0,1
+Nikhil Gupta,6.5,70.0,67.0,Civil,48,45,40,32,2,0,1,76.0,2,0
+Tanvi Shah,8.4,88.0,85.0,Information Technology,77,76,82,80,5,2,3,92.0,0,1
+Deepak Raj,7.3,79.0,76.0,Electronics,64,60,68,62,4,1,2,84.0,0,1
+Ishita Kapoor,9.0,93.0,90.0,Computer Science,86,84,92,88,7,3,5,95.0,0,1
+Rajesh Pandey,6.0,68.0,64.0,Mechanical,45,40,38,30,1,0,0,74.0,3,0
+Kavya Nair,7.9,83.0,80.0,Computer Science,72,68,75,70,4,1,2,89.0,0,1
+Aditya Bhatt,8.6,89.0,86.5,Information Technology,79,75,84,82,6,2,4,93.0,0,1
+Riya Saxena,7.1,77.0,74.0,Electronics,60,56,62,52,3,1,1,84.0,1,0
+Manish Tiwari,5.5,62.0,58.0,Civil,38,35,32,25,1,0,0,68.0,4,0
+Shweta Kulkarni,8.3,86.5,83.5,Computer Science,78,80,83,80,5,2,3,91.0,0,1
+Varun Kapoor,7.6,81.0,78.0,Information Technology,68,64,72,65,4,1,2,87.0,0,1
+Anjali Mishra,8.8,91.5,88.5,Computer Science,84,80,88,86,6,2,4,94.0,0,1
+Siddharth Rao,6.7,74.0,70.5,Electrical,52,48,50,42,2,0,1,80.0,1,0
+Neha Sharma,7.4,79.5,76.5,Electronics,66,62,68,58,3,1,2,86.0,0,1
+Pranav Desai,9.2,95.0,92.0,Computer Science,90,86,93,90,8,3,5,97.0,0,1
+Shruti Jain,6.3,71.0,67.5,Information Technology,50,46,48,40,2,0,1,77.0,2,0
+Akash Mehta,8.1,85.5,82.5,Computer Science,74,72,80,76,5,2,3,90.0,0,1
+Nandini Pillai,7.7,82.0,79.5,Electronics,70,66,73,64,4,1,2,88.0,0,1
+Vishal Choudhary,5.9,66.0,63.0,Mechanical,44,40,36,28,1,0,0,73.0,3,0
+Roshni Bhat,8.5,88.5,85.5,Information Technology,78,76,82,78,5,2,3,92.0,0,1
+Gaurav Singh,7.2,78.5,75.0,Electrical,62,56,60,52,3,1,1,83.0,1,0
+Pallavi Reddy,8.9,92.0,89.0,Computer Science,84,82,90,86,7,3,5,95.0,0,1
+Harsh Patel,6.1,69.0,65.5,Civil,46,42,38,30,2,0,0,75.0,2,0
+Swati Nair,7.8,83.5,80.5,Computer Science,72,70,76,72,4,1,2,89.0,0,1
+Abhishek Jha,8.4,87.5,84.5,Information Technology,76,74,82,80,6,2,3,92.0,0,1
+Megha Srinivasan,7.0,75.5,72.0,Electronics,58,54,58,48,3,0,1,82.0,1,0
+Tushar Agrawal,9.1,94.5,91.0,Computer Science,88,84,92,90,7,3,5,96.0,0,1
+Richa Gupta,6.6,73.0,69.5,Mechanical,52,48,45,38,2,0,1,79.0,2,0
+Sameer Khan,8.0,84.0,81.0,Information Technology,74,68,76,72,5,2,3,90.0,0,1
+Aparna Das,7.5,80.5,77.0,Electronics,66,64,70,60,4,1,2,87.0,0,1
+Kunal Verma,5.7,64.0,60.5,Civil,40,36,34,26,1,0,0,70.0,3,0
+Madhavi Rao,8.3,86.0,83.0,Computer Science,76,78,84,80,5,2,4,91.0,0,1
+Vivek Sharma,7.3,79.0,76.0,Electrical,64,58,62,54,3,1,1,84.0,1,0
+Sonal Mehta,8.7,90.5,87.0,Computer Science,82,80,88,84,6,2,4,93.0,0,1
+Rahul Nair,6.4,71.5,68.0,Mechanical,50,44,42,34,2,0,1,76.0,2,0
+Priyanka Iyer,7.9,83.0,80.0,Information Technology,72,70,74,68,4,1,2,89.0,0,1
+Aman Chopra,8.8,91.0,88.0,Computer Science,84,78,90,88,7,3,4,94.0,0,1
+Nisha Patil,6.9,74.5,71.0,Electronics,56,52,55,46,3,0,1,81.0,1,0
+Tarun Reddy,8.2,86.5,83.5,Information Technology,76,72,80,76,5,2,3,91.0,0,1
+Jyoti Kumari,7.1,77.5,74.0,Electrical,60,58,60,50,3,1,1,83.0,0,0
+Rohan Malhotra,9.0,93.5,90.5,Computer Science,86,82,92,90,8,3,5,96.0,0,1
+Smita Deshmukh,6.2,70.0,66.0,Civil,48,44,40,32,2,0,0,74.0,2,0
+Naveen Kumar,7.6,81.5,78.5,Computer Science,70,66,74,68,4,1,2,88.0,0,1
+Deepika Singh,8.5,89.0,86.0,Information Technology,78,76,84,80,6,2,4,92.0,0,1
+Ajay Mohan,5.6,63.0,59.5,Mechanical,42,36,34,24,1,0,0,69.0,4,0
+Revathi Menon,7.8,82.5,79.5,Electronics,72,68,72,62,4,1,2,88.0,0,1
+Kiran Prakash,8.1,85.0,82.0,Computer Science,74,70,80,78,5,2,3,90.0,0,1
+Bhavana Rao,6.7,73.5,70.0,Electrical,54,50,52,44,2,0,1,80.0,1,0
+Sanjay Gupta,8.6,89.5,86.5,Computer Science,80,76,86,84,6,2,4,93.0,0,1
+Aditi Sharma,7.4,80.0,77.0,Information Technology,66,64,70,62,4,1,2,86.0,0,1
+Mohan Lal,5.4,61.0,57.5,Civil,36,32,30,22,1,0,0,66.0,4,0
+Sowmya Krishnan,8.4,87.0,84.0,Computer Science,78,80,84,82,5,2,3,92.0,0,1
+Pankaj Dubey,7.2,78.0,75.5,Mechanical,62,56,58,48,3,1,1,83.0,1,0
+Lavanya Reddy,8.9,92.5,89.5,Computer Science,86,84,90,88,7,3,5,95.0,0,1
+Manoj Kumar,6.5,72.0,68.5,Electrical,52,46,48,40,2,0,1,78.0,2,0
+Anitha Balan,7.7,82.0,79.0,Electronics,68,66,72,64,4,1,2,87.0,0,1
+Sunil Yadav,8.0,84.5,81.5,Information Technology,74,70,78,74,5,2,3,89.0,0,1
+Jayashree Nair,6.8,75.0,72.0,Civil,54,50,44,36,2,0,1,79.0,1,0
+Ramesh Chandra,9.2,95.5,92.5,Computer Science,90,88,94,92,8,3,6,97.0,0,1
+Preeti Saxena,7.0,76.0,73.0,Mechanical,58,54,54,46,3,0,1,82.0,1,0
+Venkat Raman,8.3,86.0,83.0,Computer Science,76,74,82,78,5,2,3,91.0,0,1
+Fatima Khan,7.5,80.0,77.5,Information Technology,68,66,72,66,4,1,2,87.0,0,1
+Ashwin Nambiar,6.0,67.0,63.5,Electrical,44,40,42,34,2,0,0,74.0,3,0
+Radha Menon,8.7,90.0,87.0,Computer Science,82,80,88,86,6,2,4,93.0,0,1
+Gopal Krishna,7.3,79.5,76.5,Electronics,64,60,66,56,3,1,2,85.0,0,1
+Yamini Devi,8.1,85.5,82.5,Information Technology,74,72,78,74,5,2,3,90.0,0,1
+Prakash Joshi,5.8,65.0,61.5,Civil,40,38,36,28,1,0,0,71.0,3,0
+Chitra Rangan,7.9,83.5,80.5,Computer Science,74,72,76,74,4,1,2,89.0,0,1
+Dinesh Babu,8.5,88.5,85.5,Computer Science,78,76,84,82,6,2,4,92.0,0,1
+Usha Rani,6.3,71.0,67.0,Mechanical,48,44,40,32,2,0,1,76.0,2,0
+Aravind Kumar,8.8,91.5,88.5,Information Technology,84,80,88,84,7,3,4,94.0,0,1
+Saranya Devi,7.1,77.0,74.0,Electronics,60,58,62,52,3,1,1,83.0,1,0
+Ganesh Iyer,8.0,84.0,81.0,Computer Science,74,68,78,76,5,2,3,90.0,0,1
+Hema Latha,6.6,73.0,69.5,Electrical,52,48,50,42,2,0,1,79.0,1,0
+Vijay Anand,9.1,94.0,91.0,Computer Science,88,86,92,90,7,3,5,96.0,0,1
+Padmini Rao,7.6,81.0,78.0,Information Technology,68,64,72,66,4,1,2,87.0,0,1
+Balaji Subramanian,8.4,87.5,84.5,Computer Science,78,76,84,82,6,2,3,92.0,0,1
+Sumathi Krishnan,6.9,74.0,70.5,Civil,54,50,46,38,2,0,1,80.0,1,0
+Rajeshwari Nair,8.2,86.0,83.0,Electronics,76,74,78,72,5,2,3,90.0,0,1
+Sathish Kumar,5.5,62.5,58.5,Mechanical,38,34,32,24,1,0,0,68.0,4,0
+Kavitha Sundaram,7.8,82.5,79.5,Computer Science,72,70,76,72,4,1,2,88.0,0,1
+Mukesh Agarwal,8.6,89.0,86.0,Information Technology,80,76,84,80,6,2,4,93.0,0,1
+Latha Ramesh,7.4,80.0,77.0,Electrical,66,62,64,56,3,1,2,85.0,0,1
+Harish Babu,8.9,92.0,89.0,Computer Science,86,82,90,88,7,3,5,95.0,0,1
+Sarita Devi,6.1,68.0,64.5,Civil,46,42,38,30,2,0,0,75.0,2,0
+Nagaraj Rao,7.7,82.0,79.0,Computer Science,70,68,74,70,4,1,2,88.0,0,1
+Indira Menon,8.3,86.5,83.5,Information Technology,76,74,82,78,5,2,3,91.0,0,1
+Shankar Pillai,5.9,66.5,63.0,Mechanical,44,38,36,28,1,0,0,72.0,3,0
+Girija Nair,8.0,84.0,81.0,Electronics,72,70,76,68,5,2,2,89.0,0,1
+Senthil Kumar,7.2,78.0,75.0,Electrical,62,56,58,50,3,1,1,83.0,1,0
+Vasantha Devi,8.5,88.0,85.0,Computer Science,78,78,84,82,6,2,4,92.0,0,1
+Mahesh Verma,6.4,71.5,68.0,Civil,50,44,42,34,2,0,1,77.0,2,0
+Rekha Balan,7.9,83.5,80.5,Information Technology,74,70,76,72,4,1,2,89.0,0,1
+Arun Prakash,9.0,93.0,90.0,Computer Science,86,84,92,88,8,3,5,96.0,0,1
+Sundari Rao,6.7,73.5,70.0,Mechanical,52,48,46,38,2,0,1,79.0,1,0
+Bala Murugan,8.2,86.0,83.0,Computer Science,76,72,80,78,5,2,3,91.0,0,1
+Kamala Devi,7.0,76.0,73.0,Electronics,58,56,60,50,3,0,1,82.0,1,0
+Rajiv Menon,8.7,90.5,87.5,Information Technology,82,80,86,82,6,2,4,93.0,0,1
+Mythili Raman,7.5,80.5,77.5,Electrical,68,64,68,60,4,1,2,86.0,0,1
+Saravanan K,8.1,85.0,82.0,Computer Science,74,70,78,76,5,2,3,90.0,0,1
+Durga Devi,6.5,72.0,68.5,Civil,50,46,44,36,2,0,1,78.0,2,0
+Ramya Krishnan,8.8,91.5,88.5,Computer Science,84,82,90,86,7,3,5,94.0,0,1
+Krishna Moorthy,7.3,79.0,76.0,Mechanical,64,58,56,48,3,1,1,84.0,1,0
+Subhashini Nair,8.4,87.0,84.0,Information Technology,78,76,82,80,5,2,3,92.0,0,1
+Ezhil Arasan,5.6,63.5,60.0,Electrical,40,36,34,26,1,0,0,70.0,3,0
+Sangeetha Rao,7.8,83.0,80.0,Computer Science,72,68,76,70,4,1,2,88.0,0,1
+Murali Kumar,8.6,89.5,86.5,Computer Science,80,78,86,84,6,2,4,93.0,0,1
+Vani Krishnan,6.8,74.5,71.0,Electronics,56,52,54,46,3,0,1,81.0,1,0
+Raghu Nandan,8.0,84.0,81.0,Information Technology,74,70,78,74,5,2,3,89.0,0,1
+Janaki Amma,7.1,77.0,74.0,Civil,60,56,52,42,3,1,1,82.0,1,0
+Praveen Raj,9.3,96.0,93.0,Computer Science,92,88,94,92,8,3,6,98.0,0,1
+Nalini Devi,6.2,70.0,66.5,Mechanical,48,44,40,32,2,0,0,75.0,2,0
+Srinivasan R,8.3,86.5,83.5,Computer Science,76,74,82,80,5,2,3,91.0,0,1
+Pushpa Latha,7.6,81.5,78.5,Electronics,70,66,72,64,4,1,2,87.0,0,1
+Bharath Kumar,8.5,88.0,85.0,Information Technology,78,76,84,80,6,2,4,92.0,0,1
+Shanti Devi,5.7,64.0,60.5,Civil,42,38,36,28,1,0,0,70.0,3,0
+Mahalakshmi S,7.9,83.5,80.5,Computer Science,74,72,76,72,4,1,2,89.0,0,1
+Ravi Shankar,8.4,87.0,84.0,Computer Science,78,74,84,82,6,2,3,92.0,0,1

@@ -1,0 +1,159 @@
+COMPANY REQUIREMENTS AND HIRING CRITERIA
+
+PRODUCT-BASED COMPANIES
+
+GOOGLE
+Minimum CGPA: 8.5
+Minimum 10th Percentage: 85%
+Minimum 12th Percentage: 85%
+Allowed Departments: Computer Science, Information Technology
+Maximum Backlogs: 0
+Minimum Technical Score: 85
+Minimum Coding Score: 85
+Package: 25+ LPA
+Role: Software Engineer
+Hiring Process: Online coding test (2-3 problems), 4-5 technical interviews, 1 HR interview
+Key Focus Areas: Data Structures, Algorithms, System Design, Problem Solving
+Google looks for strong problem-solving skills, clean code, and ability to handle ambiguity. They value projects that demonstrate innovation and impact.
+
+MICROSOFT
+Minimum CGPA: 8.0
+Minimum 10th Percentage: 80%
+Minimum 12th Percentage: 80%
+Allowed Departments: Computer Science, Information Technology, Electronics
+Maximum Backlogs: 0
+Minimum Technical Score: 80
+Minimum Coding Score: 80
+Package: 22+ LPA
+Role: Software Development Engineer
+Hiring Process: Online assessment, 3-4 technical rounds, 1 HR round
+Key Focus Areas: DSA, OOP concepts, System Design, Behavioral questions
+Microsoft values collaborative problem-solving and growth mindset. They look for candidates who can think through complex problems systematically.
+
+AMAZON
+Minimum CGPA: 7.5
+Minimum 10th Percentage: 75%
+Minimum 12th Percentage: 75%
+Allowed Departments: Computer Science, Information Technology, Electronics
+Maximum Backlogs: 0
+Minimum Technical Score: 75
+Minimum Coding Score: 78
+Package: 18+ LPA
+Role: SDE I
+Hiring Process: Online assessment (2 coding + work simulation), 4 interview rounds
+Key Focus Areas: Leadership Principles, DSA, System Design, Behavioral questions
+Amazon strongly focuses on their 16 Leadership Principles. Candidates should prepare examples demonstrating Customer Obsession, Ownership, and Dive Deep.
+
+ADOBE
+Minimum CGPA: 8.0
+Minimum 10th Percentage: 82%
+Minimum 12th Percentage: 82%
+Allowed Departments: Computer Science, Information Technology
+Maximum Backlogs: 0
+Minimum Technical Score: 82
+Minimum Coding Score: 80
+Package: 18+ LPA
+Role: Member of Technical Staff
+Hiring Process: Online test, 2-3 technical rounds, 1 HR round
+Key Focus Areas: C/C++, DSA, OS, DBMS, Computer Networks
+
+FLIPKART
+Minimum CGPA: 7.5
+Minimum 10th Percentage: 75%
+Minimum 12th Percentage: 75%
+Allowed Departments: Computer Science, Information Technology, Electronics
+Maximum Backlogs: 0
+Minimum Technical Score: 78
+Minimum Coding Score: 80
+Package: 16+ LPA
+Role: SDE I
+Key Focus Areas: DSA, System Design, Machine Coding rounds
+
+SERVICE-BASED COMPANIES
+
+TCS (TATA CONSULTANCY SERVICES)
+Minimum CGPA: 6.0
+Minimum 10th Percentage: 60%
+Minimum 12th Percentage: 60%
+Allowed Departments: All engineering branches
+Maximum Backlogs: 0
+Minimum Technical Score: 50
+Minimum Coding Score: 45
+Package: 3.6 LPA (Ninja), 7 LPA (Digital), 11.5 LPA (Prime)
+Role: Systems Engineer
+Hiring Process: TCS NQT (National Qualifier Test) - Aptitude + Coding
+TCS is the largest IT services company and hires in bulk. They have three tiers of hiring based on NQT performance.
+
+INFOSYS
+Minimum CGPA: 6.5
+Minimum 10th Percentage: 65%
+Minimum 12th Percentage: 65%
+Allowed Departments: CS, IT, ECE, EEE, Mechanical
+Maximum Backlogs: 0
+Minimum Technical Score: 55
+Minimum Coding Score: 50
+Package: 4.5 LPA (SP), 6.5 LPA (DSE), 9.5 LPA (PP)
+Role: Systems Engineer / Digital Specialist Engineer
+Hiring Process: InfyTQ assessment, online test, interview rounds
+
+WIPRO
+Minimum CGPA: 6.0
+Minimum 10th Percentage: 60%
+Minimum 12th Percentage: 60%
+Allowed Departments: All engineering branches
+Maximum Backlogs: 0
+Minimum Technical Score: 45
+Minimum Coding Score: 40
+Package: 3.5 LPA (Elite), 6.5 LPA (Turbo)
+Role: Project Engineer
+Hiring Process: Online aptitude test, coding test, technical interview, HR interview
+
+COGNIZANT
+Minimum CGPA: 6.5
+Minimum 10th Percentage: 65%
+Minimum 12th Percentage: 65%
+Allowed Departments: CS, IT, ECE, EEE
+Maximum Backlogs: 0
+Package: 4.0 LPA (GenC), 6.75 LPA (GenC Pro), 9.0 LPA (GenC Elevate)
+Role: Programmer Analyst
+
+ACCENTURE
+Minimum CGPA: 6.0
+Minimum 10th Percentage: 60%
+Minimum 12th Percentage: 60%
+Allowed Departments: CS, IT, ECE, EEE, Mechanical
+Maximum Backlogs: 0
+Package: 4.5 LPA (ASE), 6.5 LPA (ACE)
+Role: Associate Software Engineer
+
+FINANCE AND CONSULTING
+
+GOLDMAN SACHS
+Minimum CGPA: 8.0
+Minimum 10th Percentage: 80%
+Minimum 12th Percentage: 80%
+Allowed Departments: CS, IT, Electronics
+Maximum Backlogs: 0
+Package: 20+ LPA
+Role: Technology Analyst
+Key Focus Areas: DSA, DBMS, OS, Puzzles, System Design
+
+JP MORGAN CHASE
+Minimum CGPA: 7.5
+Minimum 10th Percentage: 78%
+Minimum 12th Percentage: 78%
+Allowed Departments: CS, IT, Electronics
+Maximum Backlogs: 0
+Package: 15+ LPA
+Role: Software Engineer
+Key Focus Areas: DSA, OOP, DBMS, Financial Technology concepts
+
+DELOITTE
+Minimum CGPA: 7.5
+Minimum 10th Percentage: 75%
+Minimum 12th Percentage: 75%
+Allowed Departments: CS, IT
+Maximum Backlogs: 0
+Package: 8+ LPA
+Role: Analyst
+Key Focus Areas: Analytical thinking, business acumen, technical fundamentals

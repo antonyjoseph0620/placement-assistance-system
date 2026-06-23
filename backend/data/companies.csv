@@ -1,0 +1,21 @@
+name,min_cgpa,min_tenth,min_twelfth,allowed_departments,max_backlogs,min_technical_score,min_coding_score,min_communication_score,min_aptitude_score,package_lpa,role,type
+Google,8.5,85.0,85.0,"Computer Science,Information Technology",0,85,85,75,80,25.0,Software Engineer,Product
+Microsoft,8.0,80.0,80.0,"Computer Science,Information Technology,Electronics",0,80,80,70,75,22.0,Software Development Engineer,Product
+Amazon,7.5,75.0,75.0,"Computer Science,Information Technology,Electronics",0,75,78,65,70,18.0,SDE I,Product
+TCS,6.0,60.0,60.0,"Computer Science,Information Technology,Electronics,Electrical,Mechanical,Civil",0,50,45,50,50,3.6,Systems Engineer,Service
+Infosys,6.5,65.0,65.0,"Computer Science,Information Technology,Electronics,Electrical,Mechanical",0,55,50,55,55,4.5,Systems Engineer,Service
+Wipro,6.0,60.0,60.0,"Computer Science,Information Technology,Electronics,Electrical,Mechanical,Civil",0,45,40,45,45,3.5,Project Engineer,Service
+Cognizant,6.5,65.0,65.0,"Computer Science,Information Technology,Electronics,Electrical",0,55,50,50,50,4.0,Programmer Analyst,Service
+Accenture,6.0,60.0,60.0,"Computer Science,Information Technology,Electronics,Electrical,Mechanical",0,50,45,55,50,4.5,Associate Software Engineer,Service
+Deloitte,7.5,75.0,75.0,"Computer Science,Information Technology",0,70,65,70,65,8.0,Analyst,Consulting
+Goldman Sachs,8.0,80.0,80.0,"Computer Science,Information Technology,Electronics",0,80,80,75,75,20.0,Technology Analyst,Finance
+JP Morgan,7.5,78.0,78.0,"Computer Science,Information Technology,Electronics",0,75,75,70,70,15.0,Software Engineer,Finance
+Adobe,8.0,82.0,82.0,"Computer Science,Information Technology",0,82,80,72,78,18.0,Member of Technical Staff,Product
+Flipkart,7.5,75.0,75.0,"Computer Science,Information Technology,Electronics",0,78,80,68,72,16.0,SDE I,Product
+Zoho,7.0,70.0,70.0,"Computer Science,Information Technology,Electronics",0,70,72,60,65,6.5,Member Technical Staff,Product
+Tech Mahindra,6.0,60.0,60.0,"Computer Science,Information Technology,Electronics,Electrical,Mechanical",0,50,45,50,45,3.8,Associate Software Engineer,Service
+HCL Technologies,6.0,60.0,60.0,"Computer Science,Information Technology,Electronics,Electrical,Mechanical,Civil",0,48,42,48,45,3.5,Graduate Engineer Trainee,Service
+Capgemini,6.5,65.0,65.0,"Computer Science,Information Technology,Electronics,Electrical",0,55,50,55,50,4.2,Associate Consultant,Service
+PayPal,8.0,80.0,80.0,"Computer Science,Information Technology",0,80,82,72,75,18.0,Software Engineer I,Product
+Oracle,7.5,78.0,78.0,"Computer Science,Information Technology,Electronics",0,75,78,68,72,14.0,Application Developer,Product
+Samsung,7.5,78.0,78.0,"Computer Science,Electronics,Electrical",0,78,75,65,70,12.0,Software Engineer,Product
